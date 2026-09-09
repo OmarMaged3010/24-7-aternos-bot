@@ -1,0 +1,12 @@
+{
+  "name": "omaged-afk-bot",
+  "version": "1.0.0",
+  "description": "AFK Bot for o_magedSMP Aternos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.1"
+  }
+}
